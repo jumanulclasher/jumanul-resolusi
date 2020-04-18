@@ -1,2 +1,2 @@
 # jumanul-resolusi
-resolusi untuk jumanul kedepannya
+repository untuk jumanul kedepannya
