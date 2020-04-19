@@ -3,6 +3,7 @@ rencana pembuatan web app untuk fiksi
   - editan simple
   - membuat guide untuk pemakaian optimizingnya
 - e commerce
+  kompleks
 - olshop
   membuat section rating
 - login kompleks
