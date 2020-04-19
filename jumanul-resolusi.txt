@@ -4,4 +4,6 @@ rencana pembuatan web app untuk fiksi
   - menyediakan future copas dan embended file
   - membuat guide untuk pemakaian optimizingnya
 - e commerce
+  kompleks
 - olshop
+- login kompleks
