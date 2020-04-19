@@ -1,7 +1,8 @@
 rencana pembuatan web app untuk fiksi
 - pembuatan optimizing produk
   - editan simple
-  - menyediakan future copas dan embended file
   - membuat guide untuk pemakaian optimizingnya
 - e commerce
 - olshop
+  membuat section rating
+- login kompleks
