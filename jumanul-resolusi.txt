@@ -1,0 +1,4 @@
+rencana pembuatan web app untuk fiksi
+- pembuatan optimizing produk
+- e commerce
+- olshop
